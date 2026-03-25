@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         links
+// @icon         https://raw.githubusercontent.com/sujer-ux/links/refs/heads/main/icon.svg
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  ...
