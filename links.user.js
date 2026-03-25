@@ -22,7 +22,7 @@
         padding: 10px 15px;
         background-color: #000;
         color: white;
-        border: none;
+        border: 1px solid #ffffff24;
         border-radius: 5px;
         font-size: 14px;
         font-weight: bold;
