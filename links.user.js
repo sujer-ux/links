@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  ...
-// @author       You
+// @author       sujer-ux
 // @match        https://www.kinopoisk.ru/film/*
 // @grant        none
 // ==/UserScript==
